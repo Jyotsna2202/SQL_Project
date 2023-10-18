@@ -1,4 +1,4 @@
-
+--sql project--
 --Query 01 : Retreiving film, title from the film table on the condition where rating is 'PG' and ordering in the ascending order.
 
 select film_id,title
